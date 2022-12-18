@@ -7,7 +7,9 @@ In this project, I work on state prediction of a 4-fingered robot hand given RGB
 
 ## Repository structure
 `baseline_model.ipynb` : contains the code for the baseline CNN model. The architecture of the model is inspired by vgg.
+
 `restnet_model.ipynb`: contains the code for the model finetuned on resnet50. 
+
 `capstone_report`: summary of experiment results
 
 
